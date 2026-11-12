@@ -1,0 +1,14 @@
+{
+  "name": "spdd-ddd-saip",
+  "description": "Governed software development: SPDD + Domain-Driven Design + Software Architecture in Practice.",
+  "owner": {
+    "name": "ehsan"
+  },
+  "plugins": [
+    {
+      "name": "spdd-ddd-saip",
+      "source": "./",
+      "description": "Story → analysis → REASONS Canvas → code, with DDD modelling and SAiP quality-attribute decisions recorded as ADRs."
+    }
+  ]
+}
